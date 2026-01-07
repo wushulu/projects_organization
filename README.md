@@ -1,3 +1,6 @@
+# “Porjecta0” — 项目汇总
+
+**文件夹**：`/`
 ## AI生成代码
  将'项目归档.txt'需求说明发给 AI Gemini
 
@@ -21,3 +24,8 @@ python make_icon.py
 pyinstaller --onefile --console --icon=app.ico --name "项目归档生成器" main.py
 </code></pre>
 <button onclick="copyCode()"></button>
+
+## 修改
+   - 扫描深度 5
+   - 生成md文件更加简洁、可读
+
